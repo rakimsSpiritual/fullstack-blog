@@ -1,0 +1,85 @@
+{
+  "hash": "972fd11a",
+  "configHash": "d0e76e32",
+  "lockfileHash": "6768c8bd",
+  "browserHash": "0624d177",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a9bb4a9f",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "da51df14",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "2e7a2c05",
+      "needsInterop": false
+    },
+    "@clerk/clerk-react": {
+      "src": "../../node_modules/@clerk/clerk-react/dist/index.mjs",
+      "file": "@clerk_clerk-react.js",
+      "fileHash": "e7a8af5b",
+      "needsInterop": false
+    },
+    "@tanstack/react-query": {
+      "src": "../../node_modules/@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "0b63c1b1",
+      "needsInterop": false
+    },
+    "react-toastify": {
+      "src": "../../node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "file": "react-toastify.js",
+      "fileHash": "7ea4eec8",
+      "needsInterop": false
+    },
+    "react-quill-new": {
+      "src": "../../node_modules/react-quill-new/lib/index.js",
+      "file": "react-quill-new.js",
+      "fileHash": "8f482856",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "60855018",
+      "needsInterop": false
+    },
+    "timeago.js": {
+      "src": "../../node_modules/timeago.js/esm/index.js",
+      "file": "timeago__js.js",
+      "fileHash": "1531d44d",
+      "needsInterop": false
+    },
+    "react-infinite-scroll-component": {
+      "src": "../../node_modules/react-infinite-scroll-component/dist/index.es.js",
+      "file": "react-infinite-scroll-component.js",
+      "fileHash": "e775d629",
+      "needsInterop": false
+    },
+    "imagekitio-react": {
+      "src": "../../node_modules/imagekitio-react/dist/imagekitio-react.esm.js",
+      "file": "imagekitio-react.js",
+      "fileHash": "e853057f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-3KIURGMY": {
+      "file": "chunk-3KIURGMY.js"
+    },
+    "chunk-SMLZ4TZC": {
+      "file": "chunk-SMLZ4TZC.js"
+    },
+    "chunk-WOOG5QLI": {
+      "file": "chunk-WOOG5QLI.js"
+    }
+  }
+}
